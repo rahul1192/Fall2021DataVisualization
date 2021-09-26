@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>HTML Form </title>
+    </head>
+    <body>
+        <h3>Form Design Exercise:</h3>
+        <form>
+            <label  for = "email">Email*</label>
+                                        <input type="text"><br>
+            
+            <label for="firstName">Firstname</label>
+                                        <input type="text"><br>
+            
+            <label for="lastName">Lastname</label>
+                                        <input type="text"><br>
+            
+            <label for="Research Intrest">Research Interest (list at least 3) </label>
+                                        <input type="text"><br>
+            
+            <label for="ProjectTitle">Project Title- (e.g. income vs education US Census) </label>
+                                        <input type="text"><br>
+            
+            <table>
+                <tr>
+                    <label for="TopSkills">Top skills*</label><br>
+                    <input type="checkbox">
+                    <label for="SQL">SQL</label><br>
+            
+                
+            
+                    <input type="checkbox">
+                    <label for="Python Programming">Python Programming</label><br>
+
+
+                
+                    <input type="checkbox">
+                    <label for="Matlab">Matlab</label><br>
+                
+                    <input type="checkbox">
+                    <label for="D3js and Javascript">D3js and Javascript</label><br>
+                
+
+            
+                    <input type="checkbox">
+                    <label for="C# VB.net">C# VB.net</label><br>
+                
+
+            
+                    <input type="checkbox">
+                    <label for="PHP">PHP</label><br>
+                
+                    <input type="checkbox">
+                    <label for="Node,JS">Node.JS</label><br>
+                
+
+                
+                    <input type="checkbox">
+                    <label for="Web design tools">Web design tools (e.g. Wordpress)</label><br>
+                
+
+                
+                    <input type="checkbox">
+                    <label for="HTML">HTML and CSS</label><br>
+                
+
+             
+                    <input type="checkbox">
+                    <label for="Excel">Excel</label><br>
+               
+
+              
+                    <input type="checkbox">
+                    <label for="PowerBI">PowerBI</label><br>
+                
+
+               
+                    <input type="checkbox">
+                    <label for="Tableau">Tableau</label><br>
+            
+
+                    <input type="checkbox">
+                    <label for="option13">Option13</label><br>
+               
+
+                
+                    <input type="checkbox">
+                    <label for="other">Other</label>
+                    <input type="text"><br>
+                </tr>
+            </table>
+            
+            
+            <label for="Suggestions or Questions">Suggestions or Questions</label>
+            <input type="text"><br>
+            
+            <input type="submit" value="Submit">
+        </form>
+    </body>
+</html>
